@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T09:11:18.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hKx0GUPdKxeEBJzxd8dE" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T09:15:31.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nQIaB66ys4U7IGYO_pMo" version="21.1.4" type="github">
   <diagram name="Page-1" id="WgcQ2zQy_PikqPIRoGGc">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,6 +175,15 @@
         </mxCell>
         <mxCell id="dNG5F9FA-suqaUyeEizk-69" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="10" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-70" value="&lt;font face=&quot;ubuntu&quot; style=&quot;font-size: 17px;&quot;&gt;@luminous.com&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=ubuntu;fontStyle=1;fontSize=17;labelBackgroundColor=#66B2FF;fontColor=default;labelBorderColor=none;fillColor=#66B2FF;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490.25" y="200" width="159.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-71" value="&lt;font face=&quot;ubuntu&quot; style=&quot;font-size: 17px;&quot;&gt;@istanbul.luminous.com&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=ubuntu;fontStyle=1;fontSize=17;labelBackgroundColor=#66B2FF;fontColor=default;labelBorderColor=none;fillColor=#66B2FF;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="76.58" y="390" width="237.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-72" value="&lt;font face=&quot;ubuntu&quot; style=&quot;font-size: 17px;&quot;&gt;@ankara.luminous.com&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=ubuntu;fontStyle=1;fontSize=17;labelBackgroundColor=#66B2FF;fontColor=default;labelBorderColor=none;fillColor=#66B2FF;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="572.55" y="390" width="229.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
