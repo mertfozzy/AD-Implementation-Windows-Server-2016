@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T07:43:10.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.4" etag="eiYjBKfsTfTNBCtfVUBz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T07:56:24.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_aa_LqfdCOHQKBbkXKYX" version="21.1.4" type="github">
   <diagram name="Page-1" id="WgcQ2zQy_PikqPIRoGGc">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dNG5F9FA-suqaUyeEizk-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="123.2" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="219.82999999999998" y="466" width="58.8" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_domain.svg;" vertex="1" parent="1">
+          <mxGeometry x="149.25" y="130" width="70.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="58.8" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="dNG5F9FA-suqaUyeEizk-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="404" width="58.8" height="84" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
